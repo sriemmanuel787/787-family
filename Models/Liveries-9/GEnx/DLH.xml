@@ -1,14 +1,10 @@
 <?xml version="1.0"?>
 <PropertyList>
 
-  <externaladdons>
-    <wifi>1</wifi>
-  </externaladdons>
-
 <sim>    
   <model>        
     <livery>
-	<name type="string">DLH Lufthansa (D-ABPD)</name>
+	<name type="string">DLH Lufthansa (D-ABPA)</name>
       <texture-fuselage>Liveries-9/GEnx/DLH.png</texture-fuselage>
       <texture-engines>Liveries-engines/GEnx.png</texture-engines>
     </livery>
